@@ -1,0 +1,3 @@
+- 👋 Salut, je suis Sekou KABA
+- 👀 Je suis interressé au Machine learning, la Data science ...
+- 🌱 Je suis actuement étudiant en 2ème année de cycle ingénieur
